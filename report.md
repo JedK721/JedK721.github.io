@@ -1,0 +1,1 @@
+I created, and deployed a simple, personal HTML page onto GitHub for the first time.
